@@ -1,16 +1,22 @@
-## Hi there 👋
+### 👋 Hi, I'm Abdullah B  
+Aspiring MS in AI/ML | Assistant System Engineer at TCS | Curious Mind, Lifelong Learner
 
-<!--
-**abu2508/abu2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 Currently working at TCS (Delta Airlines Project)
+- 🌱 Learning: Python, Machine Learning, Prompt Engineering, AWS
+- 📚 Exploring MS opportunities in AI/ML in the US (2026 intake)
+- 🔍 Building mini-projects to showcase on GitHub
+- 📫 Connect: [abdullahathu2@gmail.com](mailto:abdullahathu2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdullah-b-1859b5191/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I'm Learning
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
+
+---
+
+### 📈 Learning in Progress...
+I'll be uploading projects and growing my contribution graph soon!
