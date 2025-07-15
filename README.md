@@ -5,7 +5,7 @@ Aspiring MS in AI/ML | Assistant System Engineer at TCS | Curious Mind, Lifelong
 - 🌱 Learning: Python, Machine Learning, Prompt Engineering, AWS
 - 📚 Exploring MS opportunities in AI/ML in the US (2026 intake)
 - 🔍 Building mini-projects to showcase on GitHub
-- 📫 Connect: [abdullahathu2@gmail.com](mailto:abdullahathu2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abdullah-b-1859b5191/)
+- 📫 Connect: [abdullahathu2@gmail.com](mailto:abdullahathu2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/abu2508/)
 
 ---
 
